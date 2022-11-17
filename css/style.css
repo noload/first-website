@@ -1,0 +1,143 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h1 {
+  font-family: Smokum;
+  font-size: 4rem;
+  color: #66BFBF;
+  width: 50%;
+  margin:0px auto;
+}
+
+a, h3 {
+  color: #11999E;
+  margin-bottom: 0;
+}
+
+.developer {
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #66BFBF;
+  width: 5%;
+  border-width: 7px;
+}
+
+p {
+  font-family: Great Vibes;
+  margin-top: 10px;
+  font-size: 1.3rem;
+}
+
+/*     Class Selector ******/
+.top-container {
+  background-color:skyblue;
+  margin:0px;
+}
+
+.middle-container {
+  margin-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 70px;
+  padding: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 350px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 200px;
+  left:350px;
+}
+
+.image-coder {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image-hacker {
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.profile {
+  width: 40%;
+  margin: 100px auto;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto;
+}
+
+.para {
+  margin: 50px;
+}
+.btn:hover{
+  background-color: #59C1BD;
+}
+
+.btn {
+  text-decoration: none;
+  background-color: #11999E;
+  border: 2px solid #11999E;
+  border-radius: 7px;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 20px;
+  margin: 10px 30px;
+  ;
+}
+.mountain-image {
+  width:100%;
+  height: 300px;
+}
+.footer-link:hover{
+  color: blue;
+  text-decoration: underline;
+}
+.footer-link{
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+/**
+.code-description{
+  clear: left;
+}
+.hacker-description{
+  clear:right;
+}
+*/
